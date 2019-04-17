@@ -21,11 +21,11 @@ public class EscapeSeq {
         System.out.println("\n");
 
         //Print an Oval
-        System.out.println("\t***");
-        System.out.println("\t\b*\t*\t");
+        System.out.println("   ***");
+        System.out.println(" *\t   *");
         System.out.println("*\t\t*");
         System.out.println("*\t\t*");
-        System.out.println("\t\b*\t*");
-        System.out.println("\t***");
+        System.out.println(" *\t   *");
+        System.out.println("   ***");
     }
 }
